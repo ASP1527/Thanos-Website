@@ -1,0 +1,33 @@
+* {
+    margin: none;
+    padding: none;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.main {
+    color: #306493;
+    margin-top: 12vh;
+    text-align: center;
+}
+
+.q_2 {
+    opacity: 80%;
+}
+
+.q_3 {
+    opacity: 60%;
+}
+
+.q_4 {
+    opacity: 40%;
+}
+
+.q_5 {
+    opacity: 20%;
+}
+
+.q_7 {
+    color: #D9C63C;
+    font-size: 10vh;
+}
